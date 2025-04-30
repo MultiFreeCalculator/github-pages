@@ -1,0 +1,23 @@
+
+This is a Next.js application built with Firebase Studio that calculates tips based on country-specific norms.
+
+## Getting Started
+
+1.  **Install Dependencies**:
+    ```bash
+    npm install
+    ```
+2.  **Run Development Server**:
+    ```bash
+    npm run dev
+    ```
+    Open [http://localhost:9002](http://localhost:9002) with your browser to see the result.
+
+3.  **Build for Production**:
+    ```bash
+    npm run build
+    ```
+
+4.  **Start Production Server**:
+    ```bash
+    npm start
